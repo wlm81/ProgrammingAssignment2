@@ -1,5 +1,5 @@
 ## Functions to take a matrix as an argument in makeCachMatrix and  
-## Provides the inverse matrix but solving the matrix or pulling 
+## Provides the inverse of a 2x2 matrix but solving the matrix or pulling 
 ## the results from cache if this is available
 
 ## Take matrix as an input and set up four functions to get and set
